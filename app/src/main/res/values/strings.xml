@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HT_2.1.1</string>
+    <string name="OK">OK</string>
+    <string name="CheckboxFromBank">С банковской карты</string>
+    <string name="CheckboxFromPhone">С мобильного телефона</string>
+    <string name="CheckboxInCash">Наличными по адресу</string>
+    <string name="inputMoney">Введите количество денег</string>
+    <string name="inputInfo">Введите информацию</string>
+</resources>
